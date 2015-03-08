@@ -17,7 +17,7 @@ var arrayDisplayView = Ti.UI.createView({
 });
 
 var arrayDisplayLabel = Ti.UI.createLabel({
-	text: "1. Jazz",
+	text: "My favorite genres of music.",
 	font: {fontSize: 25, fontFamily: "Arial"},
 	textAlign: "center",
 	top: 20,
